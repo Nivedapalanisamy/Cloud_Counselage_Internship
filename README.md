@@ -19,7 +19,3 @@ This project aims to thoroughly analyze student interns to understand how their 
 *•	Statistical Analysis:* Utilize statistical methods to uncover patterns, trends, and correlations within the data, providing valuable insights into the relationships between different variables.
 
 *•	Data Visualization:* Develop visualizations such as charts, graphs, and dashboards to represent data trends, distributions, and relationships visually, facilitating easier interpretation and communication of findings.
-
-### Results and Impact:
-Insights gained from this analysis will help students enhance their internship experiences and employability, inform educational institutions on curriculum adjustments, assist recruiters in streamlining recruitment processes, and ultimately contribute to better career outcomes for students.
-
